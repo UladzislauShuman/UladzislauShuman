@@ -1,15 +1,37 @@
-# 💫 About Me:
-Hello, I'm Vlad, Student of B(Belarusian)SU FAMCS<br>Mostly I'm interested in Software Engineering with using of Java or C++<br>what i have done:<br>- laboratory works (simple Qt+Cpp and Swing+Java desktop applications )<br>- telegram bot for my telegram channel on Python<br>- Minecraft mode on Java<br>- in process Android App (for now repository is private)<br>if you want to tell me something or give an advice, you can find me everywhen in telegram<br>@vladshuch
+# Hi, I'm Uladzislau Shuman 👋
 
+I'm a Java Backend Developer and a student at the Faculty of Applied Mathematics and Computer Science (FAMCS) at BSU. I'm passionate about building robust, scalable systems and diving deep into backend technologies like Spring, microservices, and asynchronous processing.
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/kust_1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@zaichikstepashka) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/uladzislau-shuman-1b66b1321) 
+- 🔭 I’m currently focused on expanding my knowledge in distributed systems.
+- 🌱 I’m learning about best practices in software architecture and design patterns.
+- 📫 How to reach me: **sumanvlad36@gmail.com**, **[LinkedIn](https.linkedin.com/in/uladzislau-shuman-1b66b1321)**, **[Telegram](https://t.me/ushale1)**
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=UladzislauShuman&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=UladzislauShuman&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=UladzislauShuman&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 My Featured Projects
+
+| Project | Description | Tech Stack |
+|---|---|---|
+| 🏦 **[Banking Transaction System](https://github.com/UladzislauShuman/t1_java_OSh/tree/start-task8)** | A multi-module system simulating transaction processing in a microservices environment. Features a **custom Spring Boot starter** for monitoring (AOP), asynchronous processing with **Kafka**, and comprehensive integration tests with **WireMock**. | `Spring Boot` `Kafka` `AOP` `REST` `Docker` `PostgreSQL` |
+| 📱 **[PhoneShop E-commerce App](https://github.com/UladzislauShuman/phoneshop-servlet-api)** | A web application built from scratch with pure Java Servlets/JSP. Features a thread-safe MVC architecture (`ReadWriteLock`), a session-based cart, and a custom DoS protection filter. A deep dive into the fundamentals of web development. | `Java 17` `Servlets` `JSP` `JUnit 5` `Mockito` |
+
+---
+
+### 💻 My Tech Stack
+
+#### Backend & Data
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+#### Testing
+![JUnit5](https://img.shields.io/badge/junit5-%2325A162.svg?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/mockito-%237f52ff.svg?style=for-the-badge&logo=mockito&logoColor=white)
+![WireMock](https://img.shields.io/badge/WireMock-222222?style=for-the-badge&logo=wiremock&logoColor=white)
+
+#### Tools & Platforms
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
